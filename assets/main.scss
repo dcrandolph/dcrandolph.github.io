@@ -3,10 +3,11 @@
 ---
 
 // Google Font
-@import url('https://googleapis.com');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 
-// Carbon Color Palette & Jost Font
-$base-font-family: 'Jost', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+// Color Palette & Jost Font
+$base-font-family: "Jost", "Futura", "Century Gothic", "Apple Gothic", sans-serif;
+
 $base-font-size:   17px;
 
 $background-color:  #1c1c1e; // Deep Charcoal Black
@@ -20,7 +21,7 @@ $grey-color:        #8e8e93; // Meta Dates
 $grey-color-light:  #2c2c2e; // Codeblock Panel Background
 $grey-color-dark:   #aeaeb2; // Blockquote Borders
 
-$accent-color:      #ff453a; // Carbon accent red
+$accent-color:      #ff453a; // Accent red
 
 // Core Minima Theme
 @import "minima";
