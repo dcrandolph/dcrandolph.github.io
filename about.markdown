@@ -23,4 +23,4 @@ If you _really_ like what's going on here, you can [buy me a coffee](https://www
 
 -------
 
-This website is powered by [Jekyll](https://jekyllrb.com/), hosted on [GitHub]([https://github.com](https://github.com/)), and written with [Obsidian](https://obsidian.md/), usually on my phone, using a [Keyboardio Preonic](https://shop.keyboard.io/pages/preonic),  while listening to *A Love Supreme.* 
+This website is powered by [Jekyll](https://jekyllrb.com/), hosted on [GitHub](https://github.com/), and written with [Obsidian](https://obsidian.md/), usually on my phone, using a [Keyboardio Preonic](https://shop.keyboard.io/pages/preonic),  while listening to *A Love Supreme.* 
