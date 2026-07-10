@@ -8,16 +8,15 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          {%- if site.author -%}
+            <li class="p-name">&copy; {{ "now" | date: "%Y" }} {{ site.author | escape }}.</li>
+          {%- endif -%}
+          {%- if site.license -%}
+            <li>{{ site.license }}</li>
+          {%- endif -%}
+          {%- if site.notice -%}
+            <li>{{ site.notice | escape }}</li>
+          {%- endif -%}
         </ul>
       </div>
 

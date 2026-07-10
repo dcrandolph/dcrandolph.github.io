@@ -2,12 +2,14 @@
 
 title: most weekdays.
 email: dieter@waypastokay.com
-description: >- # this means to ignore newlines until "baseurl:"
-  work in progress, folks. stay tuned.
+author: dc randolph
+license: licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
+description: >-
+  what I am thinking about and working on, updated most weekdays.
+notice: >-
+  all contents were created by humans. no AI was involved.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username: dcrandolph
 instagram_username: waypastokay
 youtube_username: waypastokay
 threads_username: waypastokay
