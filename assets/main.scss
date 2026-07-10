@@ -33,7 +33,6 @@ $accent-color:      #ff453a; // Accent red
 }
 
 code {
-  // background-color: $grey-color-light;
   color: $accent-color;
   padding: 2px 6px;
   border-radius: 4px;
@@ -47,9 +46,9 @@ a, a:visited {
 // Header Typography
 h1, h2, h3, h4, h5, h6, .site-title, .post-title {
   font-variant: small-caps;
-  letter-spacing: 0.12em;   // Widens the tracking to mimic Futura's aesthetic
-  text-transform: lowercase; // Ensures small-caps displays uniformly across browsers
-  font-weight: 500;         // Clean, geometric weight mid-ground
+  letter-spacing: 0.12em;   
+  text-transform: lowercase; 
+  font-weight: 500;         
 }
 
 // Social Links
@@ -58,4 +57,34 @@ h1, h2, h3, h4, h5, h6, .site-title, .post-title {
 }
 .social-media-list li {
   display: inline; 
+}
+
+// Post Navigation Footer Links
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0;
+  padding-top: 20px;
+  border-top: 1px solid $grey-color-light; 
+  font-size: 0.95em;
+
+  .post-nav-label {
+    margin-bottom: 2px;
+    color: $brand-color-light; 
+    font-size: 0.8em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .prev-post {
+    flex: 1;
+    text-align: left;
+    padding-right: 10px;
+  }
+
+  .next-post {
+    flex: 1;
+    text-align: right;
+    padding-left: 10px;
+  }
 }
