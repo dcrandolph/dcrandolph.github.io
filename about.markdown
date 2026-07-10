@@ -3,16 +3,20 @@ layout: page
 title: About
 permalink: /about/
 ---
+**Hey.** My name is Dieter Randolph, but DC is easier for all of us. Let's go with that.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a husband, a dad, and a grandpa, and those are the best things about me by a country mile.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am _also_ a minister; I was ordained in 1994, shortly after the earth cooled and the dinosaurs left. In the time between then and now, I have tried to think and feel through what it means to live a spiritual life. So far, I'm pretty sure that being spiritual means being dedicated to something transcendent, but that also shows up in real life. So I really try to show up, too.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This website is a place for me to share what I have been thinking about and working on, partially inspired by a good friend, who was himself inspired by Cory Doctorow's [Memex](https://pluralistic.net/2021/05/09/the-memex-method/) approach. You are looking at my version of that.
 
+I am always writing down little weird notes about what occurs to me as the big Mystery shows up in different ways all the time. On a good day, which is most days, I open up one of those journal entries and make it into something I can share with you.
 
-[jekyll-organization]: https://github.com/jekyll
+**So thanks for showing up.**
+
+If you want to get in touch with me, please use the links at the bottom of this page. I'd love to hear from you.
+
+If you find something here that speaks to you, I would be honored if you'd help me spread the word. 
+
+If you _really_ like what's going on here, you can [buy me a coffee](https://www.buymeacoffee.com/waypastokay), or, better still, buy something I've written. My latest books are [Meaningfullfilled](https://store.bookbaby.com/book/meaningfullfilled) and [Branching In](https://bookshop.org/p/books/branching-in-the-journey-from-alone-to-all-one/0372df9a67b256b2?ean=9780692816608) (I wrote that one with my brilliant wife Jenny), and I am working on something new right now.
