@@ -20,3 +20,7 @@ If you want to get in touch with me, please use the links at the bottom of this 
 If you find something here that speaks to you, I would be honored if you'd help me spread the word. 
 
 If you _really_ like what's going on here, you can [buy me a coffee](https://www.buymeacoffee.com/waypastokay), or, better still, buy something I've written. My latest books are [Meaningfullfilled](https://store.bookbaby.com/book/meaningfullfilled) and [Branching In](https://bookshop.org/p/books/branching-in-the-journey-from-alone-to-all-one/0372df9a67b256b2?ean=9780692816608) (I wrote that one with my brilliant wife Jenny), and I am working on something new right now.
+
+-------
+
+This website is powered by [Jekyll](https://jekyllrb.com/), hosted on [GitHub]([https://github.com](https://github.com/)), and written with [Obsidian](https://obsidian.md/), usually on my phone, using a [Keyboardio Preonic](https://shop.keyboard.io/pages/preonic),  while listening to *A Love Supreme.* 
