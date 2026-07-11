@@ -3,7 +3,6 @@ layout: page
 title: Tags
 permalink: /tags/
 ---
-
 {% assign min_count = 9999 %}
 {% assign max_count = 0 %}
 

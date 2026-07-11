@@ -18,6 +18,10 @@ pinterest_username: waypastokay
 bluesky_username: waypastokay.bsky.social
 buymeacoffee_username: waypastokay
 
+header_pages:
+  - index.md
+  - about.md
+
 # Build settings
 theme: minima
 plugins:
