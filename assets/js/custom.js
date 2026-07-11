@@ -10,7 +10,7 @@ function linkMassage() {
         const realEmail = obfuscated
           .replace(/\sAT\s/gi, '@')
           .replace(/\sDOT\s/gi, '.');
-        window.location.href = `mailto:${realEmail}`;
+        window.location.href = `mailto:${realEmail}?subject=${document.title}`;
       });
       continue;
     }
