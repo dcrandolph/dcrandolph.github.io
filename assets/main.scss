@@ -1,94 +1,92 @@
 ---
-# Front matter tells Jekyll to process this Sass file
 ---
+  // Google Font
+  @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 
-// Google Font
-@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+  // Color Palette & Jost Font
+  $base-font-family: "Jost", "Futura", "Century Gothic", "Apple Gothic", sans-serif;
 
-// Color Palette & Jost Font
-$base-font-family: "Jost", "Futura", "Century Gothic", "Apple Gothic", sans-serif;
+  $base-font-size:   17px;
 
-$base-font-size:   17px;
+  $background-color:  #1c1c1e; // Deep Charcoal Black
+  $text-color:        #e5e5ea; // Off-White Text
 
-$background-color:  #1c1c1e; // Deep Charcoal Black
-$text-color:        #e5e5ea; // Off-White Text
+  $brand-color:       #f2f2f7; // Bright White Links
+  $brand-color-light: #aeaeb2; // Hover State Muted White
+  $brand-color-dark:  #3a3a3c; // Accent Borders
 
-$brand-color:       #f2f2f7; // Bright White Links
-$brand-color-light: #aeaeb2; // Hover State Muted White
-$brand-color-dark:  #3a3a3c; // Accent Borders
+  $grey-color:        #8e8e93; // Meta Dates
+  $grey-color-light:  #2c2c2e; // Codeblock Panel Background
+  $grey-color-dark:   #aeaeb2; // Blockquote Borders
 
-$grey-color:        #8e8e93; // Meta Dates
-$grey-color-light:  #2c2c2e; // Codeblock Panel Background
-$grey-color-dark:   #aeaeb2; // Blockquote Borders
+  $accent-color:      #ff453a; // Accent red
 
-$accent-color:      #ff453a; // Accent red
+  // Core Minima Theme
+  @import "minima";
 
-// Core Minima Theme
-@import "minima";
-
-// Custom Dark Scheme Polish
-.site-header {
-  border-top: 5px solid $brand-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-}
-
-code {
-  color: $accent-color;
-  padding: 2px 6px;
-  border-radius: 4px;
-}
-
-// Links
-a, a:visited {
-  color: $accent-color;
-}
-
-// Header Typography
-h1, h2, h3, h4, h5, h6, .site-title, .post-title {
-  font-variant: small-caps;
-  letter-spacing: 0.12em;   
-  text-transform: lowercase; 
-  font-weight: 500;         
-}
-
-hr {
-  margin-bottom: 1rem;
-}
-
-// Social Links
-.social-media-list .username {
-  display: none;
-}
-.social-media-list li {
-  display: inline; 
-}
-
-// Post Navigation Footer Links
-.post-nav {
-  display: flex;
-  justify-content: space-between;
-  margin: 30px 0;
-  padding-top: 20px;
-  border-top: 1px solid $grey-color-light; 
-  font-size: 0.95em;
-
-  .post-nav-label {
-    margin-bottom: 2px;
-    color: $brand-color-light; 
-    font-size: 0.8em;
-    text-transform: uppercase;
-    letter-spacing: 1px;
+  // Custom Dark Scheme Polish
+  .site-header {
+    border-top: 5px solid $brand-color-dark;
+    border-bottom: 1px solid $grey-color-light;
   }
 
-  .prev-post {
-    flex: 1;
-    text-align: left;
-    padding-right: 10px;
+  code {
+    color: $accent-color;
+    padding: 2px 6px;
+    border-radius: 4px;
   }
 
-  .next-post {
-    flex: 1;
-    text-align: right;
-    padding-left: 10px;
+  // Links
+  a, a:visited {
+    color: $accent-color;
   }
-}
+
+  // Header Typography
+  h1, h2, h3, h4, h5, h6, .site-title, .post-title {
+    font-variant: small-caps;
+    letter-spacing: 0.12em;   
+    text-transform: lowercase; 
+    font-weight: 500;         
+  }
+
+  hr {
+    margin-bottom: 1rem;
+  }
+
+  // Social Links
+  .social-media-list .username {
+    display: none;
+  }
+  .social-media-list li {
+    display: inline; 
+  }
+
+  // Post Navigation Footer Links
+  .post-nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0;
+    padding-top: 20px;
+    border-top: 1px solid $grey-color-light; 
+    font-size: 0.95em;
+
+    .post-nav-label {
+      margin-bottom: 2px;
+      color: $brand-color-light; 
+      font-size: 0.8em;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .prev-post {
+      flex: 1;
+      text-align: left;
+      padding-right: 10px;
+    }
+
+    .next-post {
+      flex: 1;
+      text-align: right;
+      padding-left: 10px;
+    }
+  }

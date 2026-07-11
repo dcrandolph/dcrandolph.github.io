@@ -10,6 +10,7 @@ notice: >-
   all contents were created by humans. no AI was involved.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /posts/:title/
 instagram_username: waypastokay
 youtube_username: waypastokay
 threads_username: waypastokay
