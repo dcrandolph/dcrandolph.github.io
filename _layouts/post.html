@@ -21,12 +21,24 @@ layout: default
 
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      {%- endif -%}
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+
+  {% if page.tags.size > 0 %}
+    <ul class="post-tags">
+      <li class="label">tagged with</li>
+      {% for tag in page.tags %}
+        <li><a href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}" class="tag-link">
+          #{{ tag }}
+        </a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
 
   <div class="post-nav">
     <div class="prev-post">

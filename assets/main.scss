@@ -42,7 +42,7 @@
   }
 
   // Header Typography
-  h1, h2, h3, h4, h5, h6, .site-title, .post-title {
+  h1, h2, h3, h4, h5, h6, .site-title, .post-title, .site-nav {
     font-variant: small-caps;
     letter-spacing: 0.12em;   
     text-transform: lowercase; 
@@ -54,11 +54,26 @@
   }
 
   // Social Links
-  .social-media-list .username {
-    display: none;
+  .social-media-list {
+    list-style-type: none;
+    margin-left: 0;
+    & .username {
+      display: none;
+    }
+    & li {
+      display: inline;
+    }
   }
-  .social-media-list li {
-    display: inline; 
+
+  // Tags
+  .post-tags {
+    color: $grey-color;
+    font-size: smaller;
+    list-style-type: none;
+    margin-left: 0;
+    & li {
+      display: inline;
+    }
   }
 
   // Post Navigation Footer Links
