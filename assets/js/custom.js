@@ -2,6 +2,19 @@ function linkMassage() {
   const links = document.querySelectorAll('a[href]');
   for (const link of links) {
     const href = link.getAttribute('href');
+    // handle Web Share API if supported, mailto, and data-sharing attribute exists
+    if (navigator.share && href.startsWith('mailto:') && link.hasAttribute('data-sharing')) {
+      link.addEventListener('click', function(event) {
+        event.preventDefault();
+        navigator.share({
+          title: document.title,
+          text: link.innerText || 'Check this out!',
+          url: window.location.href
+        })
+        .catch((error) => console.log('Sharing failed or cancelled:', error));
+      });
+      continue;
+    }
     // handle obfuscated email links
     if (href.startsWith('mailto:') && href.includes(' AT ')) {
       link.addEventListener('click', function(event) {
@@ -21,6 +34,7 @@ function linkMassage() {
     }
   }
 }
+
 
 window.addEventListener("load", () => {
   linkMassage();
