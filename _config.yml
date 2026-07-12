@@ -21,6 +21,7 @@ buymeacoffee_username: waypastokay
 header_pages:
   - index.md
   - about.md
+  - tags.md
 
 # Build settings
 theme: minima
