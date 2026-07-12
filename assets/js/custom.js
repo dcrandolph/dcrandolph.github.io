@@ -6,14 +6,18 @@ function linkMassage() {
     if (navigator.share && href.startsWith('mailto:') && link.hasAttribute('data-sharing')) {
       link.addEventListener('click', function(event) {
         event.preventDefault();
+        // grab custom text from the data attributes, or use fallbacks
+        const shareTitle = link.getAttribute('data-title') || document.title;
+        const shareText = link.getAttribute('data-text') || link.innerText || 'look what I found:';
+        const shareUrl = link.getAttribute('data-url') || window.location.href;
         navigator.share({
-          title: document.title,
-          text: link.innerText || 'Check this out!',
-          url: window.location.href
+          title: shareTitle,
+          text: shareText,
+          url: shareUrl
         })
         .catch((error) => console.log('Sharing failed or cancelled:', error));
       });
-      continue;
+      continue; 
     }
     // handle obfuscated email links
     if (href.startsWith('mailto:') && href.includes(' AT ')) {
@@ -34,6 +38,7 @@ function linkMassage() {
     }
   }
 }
+
 
 
 window.addEventListener("load", () => {

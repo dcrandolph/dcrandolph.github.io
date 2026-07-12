@@ -17,7 +17,7 @@ I am always writing down little weird notes about what occurs to me as the big M
 
 If you want to get in touch with me, please use the links at the bottom of this page. I'd love to hear from you.
 
-If you find something here that speaks to you, I would be honored if you'd help me <a href="mailto:?title='look what I found'" data-sharing="true" data-text="look what I found" data-title="most weekdays.">spread the word</a>. 
+If you find something here that speaks to you, I would be honored if you'd help me <a href="mailto:?title='look what I found'" data-sharing="true">spread the word</a>. 
 
 If you _really_ like what's going on here, you can [buy me a coffee](https://www.buymeacoffee.com/waypastokay), or, better still, buy something I've written. My latest books are [Meaningfullfilled](https://store.bookbaby.com/book/meaningfullfilled) and [Branching In](https://bookshop.org/p/books/branching-in-the-journey-from-alone-to-all-one/0372df9a67b256b2?ean=9780692816608) (I wrote that one with my brilliant wife Jenny), and I am working on something new right now.
 
