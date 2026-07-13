@@ -25,9 +25,18 @@ layout: default
     </p>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
+  {%- if page.description -%}
+    <div class="column_container">
+      <aside class="sidebar">{{ page.description }}</aside>
+  {%- endif -%}
+
+  <main class="post-content e-content" itemprop="articleBody">
     {{ content }}
-  </div>
+  </main>
+
+  {%- if page.description -%}
+    </div>
+  {%- endif -%}
 
   {% if page.tags.size > 0 %}
     <ul class="post-tags">
