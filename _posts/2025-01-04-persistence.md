@@ -2,6 +2,7 @@
 layout: post
 title: persistence
 date: 2025-01-04
+description: on regret and healing.
 tags: poetry nature mystery presence healing
 ---
 What are you made of?  

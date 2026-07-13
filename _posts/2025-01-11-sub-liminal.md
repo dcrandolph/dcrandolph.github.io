@@ -2,6 +2,7 @@
 layout: post
 title: sub-liminal.
 date: 2025-01-11
+description: on being in process.
 tags: poetry liminality growth presence
 ---
 Industrial strength hand sanitizer. That smell will be on my hands forever.  

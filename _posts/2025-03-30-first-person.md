@@ -2,6 +2,7 @@
 layout: post
 title: first person.
 date: 2025-03-30
+description: on presence and distance and perception.
 tags: poetry god mystery family presence
 ---
 Back in Sunday School we learned third person prayers.  

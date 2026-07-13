@@ -2,6 +2,7 @@
 layout: post
 title: come undone.
 date: 2024-12-28
+description: on stories and life and showing up.
 tags: poetry time ending process
 ---
 Come. Sit.  

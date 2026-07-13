@@ -2,6 +2,7 @@
 layout: post
 title: sunday morning.
 date: 2025-02-09
+description: on worship and dawn.
 tags: poetry church spiritual worship nature presence
 ---
 What church is there  
