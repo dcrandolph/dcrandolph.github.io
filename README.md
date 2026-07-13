@@ -1,0 +1,1 @@
+This is the underbelly of my personal blog, powered by Jekyll and hosted right here on GitHub. All contents are copyright Dieter Randolph. Please hit the site directly if you want to know more. Thanks! 
