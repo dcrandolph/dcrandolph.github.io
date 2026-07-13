@@ -6,14 +6,9 @@ function linkMassage() {
     if (navigator.share && href.startsWith('mailto:') && link.hasAttribute('data-sharing')) {
       link.addEventListener('click', function(event) {
         event.preventDefault();
-        // grab custom text from the data attributes, or use fallbacks
-        const shareTitle = link.getAttribute('data-title') || document.title;
-        const shareText = link.getAttribute('data-text') || link.innerText || 'look what I found:';
-        const shareUrl = link.getAttribute('data-url') || window.location.href;
         navigator.share({
-          title: shareTitle,
-          text: shareText,
-          url: shareUrl
+          title: document.title,
+          url: document.location.href,
         })
         .catch((error) => console.log('Sharing failed or cancelled:', error));
       });
