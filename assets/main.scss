@@ -118,7 +118,7 @@
       letter-spacing: 0.12em;   
       text-transform: lowercase; 
       font-weight: 500; 
-      padding-top: 3em;
+      padding-top: 3.21em;
     }
   }
   @media (max-width: 768px) {
@@ -132,7 +132,7 @@
     }
   }
 
-  .latest-post-excerpt {
+  .latest-post-excerpt, .post-excerpt {
     &.right {
       text-align: right;
     }
@@ -149,6 +149,9 @@
     .grid-post-card {
       display: flex;
       flex-direction: column;
+      & .post-excerpt {
+        font-size: smaller;
+      }
     }
   }
 }

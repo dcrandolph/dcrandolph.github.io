@@ -2,6 +2,7 @@
 layout: default
 ---
 {% assign newest_post = site.posts.first %}
+<h1 class="post-title">Posts</h1>
 <div class="home-custom">
   {% if newest_post %}
     <section class="latest-post-hero">
@@ -18,7 +19,7 @@ layout: default
       </div>
       <div class="latest-post-excerpt right">
         <a href="{{ newest_post.url | relative_url }}">
-          read more
+          read more &rarr;
         </a>
       </div>
     </section>
@@ -38,6 +39,14 @@ layout: default
               {{ post.title | escape }}
             </a>
           </h3>
+          <div class="post-excerpt">
+            {{ post.content | strip_html | truncatewords: 20 }}
+          </div>
+          <div class="post-excerpt right">
+            <a href="{{ post.url | relative_url }}">
+              &rarr;
+            </a>
+          </div>
         </article>
         {% assign grid_count = grid_count | plus: 1 %}
       {% endfor %}
