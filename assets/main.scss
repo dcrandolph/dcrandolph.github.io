@@ -132,6 +132,10 @@
     }
   }
 
+  .home-custom {
+    padding-top: 1rem;
+  }
+
   .latest-post-excerpt, .post-excerpt {
     &.right {
       text-align: right;
@@ -156,8 +160,8 @@
   }
 }
 .remaining-posts-section {
-  margin-top: 1rem;
-  padding-top: 1rem;
+  margin-top: 1.5rem;
+  padding-top: 2rem;
   .two-column-list-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
