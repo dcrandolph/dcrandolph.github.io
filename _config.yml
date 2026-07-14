@@ -8,8 +8,8 @@ description: >-
   what I am thinking about and working on, typically updated mondays - fridays.
 notice: >-
   all contents were created by humans. no AI was involved.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://waypastokay.com" # TODO: change the protocol when available
+baseurl: ""
+url: "https://waypastokay.com"
 permalink: /posts/:title/
 instagram_username: waypastokay
 youtube_username: waypastokay
