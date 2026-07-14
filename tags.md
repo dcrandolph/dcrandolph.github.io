@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tags
+title: tags
 permalink: /tags/
 ---
 {% assign min_count = 9999 %}

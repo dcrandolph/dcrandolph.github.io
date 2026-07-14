@@ -2,7 +2,7 @@
 layout: default
 ---
 {% assign newest_post = site.posts.first %}
-<h1 class="post-title">Posts</h1>
+<h1 class="post-title">posts</h1>
 <div class="home-custom">
   {% if newest_post %}
     <section class="latest-post-hero">

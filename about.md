@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 **Hey.** My name is Dieter Randolph, but DC is easier for all of us. Let's go with that.
