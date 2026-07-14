@@ -8,19 +8,18 @@
 
   $base-font-size:   17px;
 
-  // New Warm Light Palette
-  $background-color:  #ffe7d0; // Warm Cream Background
-  $text-color:        #1b1b1b; // Near-Black Text
+  $background-color:  #fffcf2; // Warm Off-White Background
+  $text-color:        #252422; // Deep Charcoal Text
 
-  $brand-color:       #fc6e20; // Primary Accent Orange
-  $brand-color-light: #575757; // Secondary Muted Grey
-  $brand-color-dark:  #323232; // Strong Dark Grey
+  $brand-color:       #eb5e2b; // Primary Rust Orange (Links)
+  $brand-color-light: #403d39; // Dark Grey for Hover/Secondary States
+  $brand-color-dark:  #252422; // Dark Charcoal for Structural Outlines
 
-  $grey-color:        #575757; // Meta Dates
-  $grey-color-light:  #f0d5be; // Shaded Codeblock Background
-  $grey-color-dark:   #323232; // Blockquote Borders
+  $grey-color:        #403d39; // Meta Dates (Dark Grey for Web Accessibility)
+  $grey-color-light:  #ccc5b9; // Light Grey for Codeblocks & Borders
+  $grey-color-dark:   #403d39; // Dark Grey for Blockquotes
 
-  $accent-color:      #fc6e20; // Core Accent Orange
+  $accent-color:      #eb5e2b; // Accent Highlight Color
 
   // Core Minima Theme
   @import "minima";
