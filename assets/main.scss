@@ -126,7 +126,7 @@
   // columnar layout
   .column_container {
     display: grid;
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 1fr 3fr;
     gap: 2em;
     & .sidebar {
       color: $brand-color-light;
