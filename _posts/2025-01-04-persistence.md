@@ -3,7 +3,7 @@ layout: post
 title: persistence
 date: 2025-01-04
 description: on regret and healing.
-tags: poetry nature mystery presence healing
+tags: poetry nature mystery presence healing forgiveness
 ---
 What are you made of?  
 Your beautiful, capable, powerful body is built from sunshine and water  
