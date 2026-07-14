@@ -8,30 +8,33 @@
 
   $base-font-size:   17px;
 
-  $background-color:  #1c1c1e; // Deep Charcoal Black
-  $text-color:        #e5e5ea; // Off-White Text
+  // New Warm Light Palette
+  $background-color:  #ffe7d0; // Warm Cream Background
+  $text-color:        #1b1b1b; // Near-Black Text
 
-  $brand-color:       #f2f2f7; // Bright White Links
-  $brand-color-light: #aeaeb2; // Hover State Muted White
-  $brand-color-dark:  #3a3a3c; // Accent Borders
+  $brand-color:       #fc6e20; // Primary Accent Orange
+  $brand-color-light: #575757; // Secondary Muted Grey
+  $brand-color-dark:  #323232; // Strong Dark Grey
 
-  $grey-color:        #8e8e93; // Meta Dates
-  $grey-color-light:  #2c2c2e; // Codeblock Panel Background
-  $grey-color-dark:   #aeaeb2; // Blockquote Borders
+  $grey-color:        #575757; // Meta Dates
+  $grey-color-light:  #f0d5be; // Shaded Codeblock Background
+  $grey-color-dark:   #323232; // Blockquote Borders
 
-  $accent-color:      #ff453a; // Accent red
+  $accent-color:      #fc6e20; // Core Accent Orange
 
   // Core Minima Theme
   @import "minima";
 
-  // Custom Dark Scheme Polish
+  // Custom Light Scheme Polish
   .site-header {
     border-top: 5px solid $brand-color-dark;
     border-bottom: 1px solid $grey-color-light;
+    background-color: $background-color;
   }
 
   code {
-    color: $accent-color;
+    color: $brand-color-dark;
+    background-color: $grey-color-light;
     padding: 2px 6px;
     border-radius: 4px;
   }
@@ -39,6 +42,12 @@
   // Links
   a, a:visited {
     color: $accent-color;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: $brand-color-dark;
+    text-decoration: underline;
   }
 
   // Header Typography
@@ -47,10 +56,19 @@
     letter-spacing: 0.12em;   
     text-transform: lowercase; 
     font-weight: 500;         
+    color: $text-color;
+  }
+  
+  .site-nav .page-link {
+    color: $text-color !important;
+    &:hover {
+      color: $accent-color !important;
+    }
   }
 
   hr {
     margin-bottom: 1rem;
+    border-color: $grey-color-light;
   }
 
   // Social Links
@@ -145,7 +163,7 @@
 .post-grid-section, .remaining-posts-section {
   margin-top: 2.5rem;
   padding-top: 2rem;
-  border-top: 1px solid $brand-color-light;
+  border-top: 1px solid $brand-color-dark;
   & .post-grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
