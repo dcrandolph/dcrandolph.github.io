@@ -42,14 +42,12 @@ permalink: /tags/
   {% for tag in sorted_tags %}
     {% assign tag_name = tag | first %}
     {% assign tag_posts = tag | last %}
-    
     <div id="{{ tag_name | slugify }}" class="tag-group">
       <h3>#{{ tag_name }}</h3>
-      <ul>
+      <ul class="tag-list">
         {% assign reversed_posts = tag_posts | reverse %}
         {% for post in reversed_posts %}
-          <li>
-            <!-- <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span> —  -->
+          <li class="tag-item">
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           </li>
         {% endfor %}
