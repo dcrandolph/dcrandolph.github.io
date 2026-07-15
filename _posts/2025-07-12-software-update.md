@@ -19,7 +19,7 @@ Different stories, different software.
 
 So tell me your story. I want to know your big idea.
 
-Your mythic sensibility is your operating system. If I know that I know _you_ in a way more fundamental than knowing what you wear or how you vote or what the various algorithms think you want to see or buy, which amounts to the same thing.
+Your mythic sensibility is your operating system. If I know that, I know _you_ in a way more fundamental than knowing what you wear or how you vote or what the various algorithms think you want to see or buy, which amounts to the same thing.
 
 The machines can know our commerce, but they cannot know our story. It is the difference between knowing where the storm has been and feeling the rain on your face as cleansing tears and new beginnings.
 
