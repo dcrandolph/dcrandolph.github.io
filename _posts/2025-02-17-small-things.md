@@ -3,7 +3,7 @@ layout: post
 title: small things.
 date: 2025-02-17
 description: on survival and change.
-tags: poetry love beauty
+tags: love beauty
 ---
 When phone and television and computer  
 And heart  

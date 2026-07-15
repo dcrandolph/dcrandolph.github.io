@@ -3,7 +3,7 @@ layout: post
 title: sub-liminal.
 date: 2025-01-11
 description: on being in process.
-tags: poetry liminality growth presence
+tags: liminality growth presence
 ---
 Industrial strength hand sanitizer. That smell will be on my hands forever.  
 Secret messages on the PA system. Does **code blue** mean somebody is dying, or is the building burning down?  

@@ -3,7 +3,7 @@ layout: post
 title: software update.
 date: 2025-07-12
 description: on the inevitability of mythology.
-tags: poetry growth myth story
+tags: growth myth story
 ---
 Animals evolve. We adapt. It's a miracle.
 

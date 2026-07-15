@@ -3,7 +3,7 @@ layout: post
 title: a thanksgiving prayer.
 date: 2025-11-27
 description: this came to me this morning.
-tags: poetry prayer thanksgiving
+tags: prayer thanksgiving
 ---
 We give thanks for this table, this home, this family.
 

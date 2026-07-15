@@ -3,7 +3,7 @@ layout: post
 title: genuine article.
 date: 2025-02-01
 description: on labels and love.
-tags: poetry labels names beginning distance
+tags: labels names beginning distance
 ---
 When you know someone truly  
 You stop using their name.

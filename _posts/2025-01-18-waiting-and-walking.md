@@ -3,7 +3,7 @@ layout: post
 title: waiting and walking.
 date: 2025-01-18
 description: on knowing and not knowing what to do.
-tags: poetry nature essence sabbath
+tags: nature essence sabbath
 ---
 It is cold, though the Sun is high and bright and alive.  
 I make a nest of small dead twigs and feather sticks, then a teepee of dry fatwood, then a miniature cabin of split birch.
