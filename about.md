@@ -15,7 +15,7 @@ I am always writing down little weird notes about what occurs to me as the big M
 
 **So thanks for showing up.**
 
-If you want to get in touch with me, please use the links at the bottom of this page. I'd love to hear from you.
+If you want to get in touch with me, please use the social links at the bottom of this page. I'd love to hear from you.
 
 If you find something here that speaks to you, I would be honored if you'd help me <a href="mailto:?title='look what I found'" data-sharing="true">spread the word</a>. 
 
@@ -25,4 +25,4 @@ If you _really_ like what's going on here, you can [buy me a coffee](https://www
 -------
 
 
-This website is powered by [Jekyll](https://jekyllrb.com/), hosted on [GitHub](https://github.com/), and written with [Obsidian](https://obsidian.md/), usually on my phone, using a [Keyboardio Preonic](https://shop.keyboard.io/pages/preonic),  while listening to, and pretending to understand, *A Love Supreme.*  
+This website is powered by [Jekyll](https://jekyllrb.com/), hosted on [GitHub](https://github.com/), and written with [Obsidian](https://obsidian.md/), usually on my phone, using a [Keyboardio Preonic](https://shop.keyboard.io/pages/preonic),  while listening to, and pretending to understand, [A Love Supreme](https://music.apple.com/us/album/a-love-supreme/1440713018).  
