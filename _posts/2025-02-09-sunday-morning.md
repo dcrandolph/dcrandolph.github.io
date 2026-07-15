@@ -3,7 +3,7 @@ layout: post
 title: sunday morning.
 date: 2025-02-09
 description: on worship and dawn.
-tags: church spiritual worship nature presence
+tags: prayer spiritual worship nature presence
 ---
 What church is there  
 But standing in this garden just before sunrise  

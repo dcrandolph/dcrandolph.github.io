@@ -3,7 +3,7 @@ layout: post
 title: centripetal.
 date: 2025-04-12
 description: on the dance and the pull.
-tags: stars love dance
+tags: stars love dance distance
 ---
 “Those are satellites.”
 
