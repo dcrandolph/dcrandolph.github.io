@@ -5,7 +5,7 @@ permalink: /about/
 ---
 **Hey.** My name is Dieter Randolph, but DC is easier for all of us. Let's go with that.
 
-I am a husband, a dad, and a grandpa, and those are the best things about me by a country mile.
+I am a husband, a dad, and a grandpa. Those are the best things about me by a country mile.
 
 I am _also_ a minister; I was ordained in 1994, shortly after the earth cooled and the dinosaurs left. In the time between then and now, I have tried to think and feel through what it means to live a spiritual life. So far, I'm pretty sure that being spiritual means being dedicated to something transcendent, but that also shows up in real life. So I really try to show up, too.
 
