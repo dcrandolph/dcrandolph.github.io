@@ -9,6 +9,7 @@ description: >-
 notice: >-
   all contents were created by humans. no AI was involved.
 baseurl: ""
+image: /assets/images/favicon-32x32.png
 url: "https://waypastokay.com"
 permalink: /posts/:title/
 instagram_username: waypastokay
