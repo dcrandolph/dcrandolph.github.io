@@ -37,20 +37,24 @@ function linkMassage() {
 function setUpSearch() {
   const searchInput = document.getElementById('search-input');
   const resultsContainer = document.getElementById('search-results');
-  // Abort script execution early if not on the search page
+  const searchSpinner = document.getElementById('search-spinner');
   if (!searchInput || !resultsContainer) return;
   let postsIndex = [];
-  // Fetch the search index (adjust the root path if your site uses a baseurl)
   fetch('/search.json')
     .then(response => response.json())
     .then(data => {
       postsIndex = data;
+      // Hide spinner and enable typing once data is ready
+      if (searchSpinner) searchSpinner.style.display = 'none';
+      searchInput.removeAttribute('disabled');
+      searchInput.focus();
     })
-    .catch(error => console.error('Error loading search index:', error));
-  // Listen for user typing
+    .catch(error => {
+      console.error('Error loading search index:', error);
+      if (searchSpinner) searchSpinner.innerHTML = 'Error loading search.';
+    });
   searchInput.addEventListener('input', (e) => {
     const query = e.target.value.toLowerCase().trim();
-  
     if (query.length < 2) {
       resultsContainer.innerHTML = '';
       return;
@@ -62,20 +66,19 @@ function setUpSearch() {
     });
     displayResults(matches);
   });
-  // Render matches to the DOM
   function displayResults(matches) {
     if (matches.length === 0) {
-      resultsContainer.innerHTML = '<li class="search-item no-results"><h3>No matching posts found.</h3></li>';
+      resultsContainer.innerHTML = '<li class="no-results">No matching posts found.</li>';
       return;
     }
     resultsContainer.innerHTML = matches.map(post => `
-      <li class="search-item">
-        <a href="${ post.url }">${ post.title }</a>
+      <li class="search-result-item">
+        <a href="${post.url}" class="search-result-title">${post.title}</a>
+        <span class="search-result-date">Published on ${post.date}</span>
       </li>
     `).join('');
   }
 }
-
 
 window.addEventListener("load", () => {
   linkMassage();
