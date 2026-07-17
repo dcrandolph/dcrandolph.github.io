@@ -74,7 +74,6 @@ function setUpSearch() {
     resultsContainer.innerHTML = matches.map(post => `
       <li class="search-result-item">
         <a href="${post.url}" class="search-result-title">${post.title}</a>
-        <span class="search-result-date">Published on ${post.date}</span>
       </li>
     `).join('');
   }
