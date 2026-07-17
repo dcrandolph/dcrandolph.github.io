@@ -24,6 +24,7 @@ header_pages:
   - index.md
   - about.md
   - tags.md
+  - search.md
 
 # Build settings
 theme: minima
