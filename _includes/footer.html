@@ -15,7 +15,13 @@
       <div class="footer-col footer-col-3">
         <ul class="contact-list">
           {%- if site.author -%}
-            <li class="p-name">&copy; {{ "now" | date: "%Y" }}&nbsp;{%- if page.title != "about" -%}<a href="{{ '/about/' | relative_url }}">{%- endif -%}{{ site.author | escape }}{%- if page.title != "about" -%}</a>{%- endif -%}.</li>
+            <li class="p-name">&copy; {{ "now" | date: "%Y" }}&nbsp;
+              {%- if page.title == "about" -%}
+                {{ site.author }}
+              {%- else -%}
+                <a href="{{ '/about/' | relative_url }}">{{ site.author }}</a>
+              {%- endif -%}
+            .</li>
           {%- endif -%}
           {%- if site.license -%}
             <li>{{ site.license }}</li>
