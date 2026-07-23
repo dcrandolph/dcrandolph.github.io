@@ -4,7 +4,7 @@ title: catch and release.
 date: 2026-07-23
 description: on Truth and where to find it.
 tags:
-  - children
+  - childhood
   - play
   - truth
   - meaning
