@@ -7,7 +7,7 @@ layout: default
   {% if newest_post %}
     <section class="latest-post-hero">
       <span class="latest-post-date">
-        {{ newest_post.date | date: "%d %B %Y" }}
+        {{ newest_post.date | date: "%B %d %Y" }}
       </span>
       <h2 class="latest-post-title">
         <a href="{{ newest_post.url | relative_url }}">
@@ -32,7 +32,7 @@ layout: default
         {% if grid_count >= 3 %}{% break %}{% endif %}
         <article class="grid-post-card">
           <span class="grid-post-date">
-            {{ post.date | date: "%d %b %Y" }}
+            {{ post.date | date: "%b %d %Y" }}
           </span>
           <h3 class="grid-post-title">
             <a href="{{ post.url | relative_url }}">
@@ -59,7 +59,7 @@ layout: default
         <article class="list-post-item">
           <h4 class="list-post-title">
             <a href="{{ post.url | relative_url }}">
-              {{ post.date | date: "%d/%m/%Y" }} - {{ post.title | escape }}
+              {{ post.date | date: "%m/%d/%Y" }} - {{ post.title | escape }}
             </a>
           </h4>
         </article>
