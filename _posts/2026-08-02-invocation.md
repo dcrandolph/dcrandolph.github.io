@@ -20,4 +20,5 @@ From now on, I choose Freedom.
 From now on, this is my Life.
 
 The unstoppable Love of God prepares the way.
+
 **I am ready.**
