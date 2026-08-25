@@ -22,6 +22,6 @@ Does somebody owe you, after all you have done for them? **Where is the debt**, 
 
 You know that **the root of the word "sacrifice" comes from the latin meaning "to make sacred"**, right? 
 
-So **can you give** it, really give it, and let it be uplifted and healed and made holy? Or are you keeping score?
+So **can you give** it, really give it, and let it be uplifted and healed and made holy? If not, you did not make a sacrifice. You made a transaction, and you are just waiting for the check to clear.
 
 Exactly none of enlightenment or happiness or love is transactional. **So let go.**
