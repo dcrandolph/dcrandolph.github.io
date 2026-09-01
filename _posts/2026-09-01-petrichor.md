@@ -38,7 +38,8 @@ Like this storm
 Heavy now.
 
 Let me stay outside.  
-I am tired of boundaries.  If the signs point to anything  
+I am tired of boundaries.  
+If the signs point to anything  
 It is that the veil is sundered.
 
 Let it be sundered in me, too.  
