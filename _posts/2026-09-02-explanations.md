@@ -2,7 +2,7 @@
 layout: post
 title: explanations.
 date: 2026-09-02
-description: on proof in a silly rhyme.
+description: on proof in a silly broken rhyme.
 tags:
   - proof
   - dualism
