@@ -1,4 +1,4 @@
-`---
+---
 layout: post
 title: a nose by any other name.
 date: 2026-10-08
