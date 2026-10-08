@@ -1,4 +1,4 @@
----
+`---
 layout: post
 title: a nose by any other name.
 date: 2026-10-08
@@ -23,13 +23,13 @@ Same thing with "church." The word comes from the root word _ekklesia,_ which me
 
 But that's facial tissue. The Kleenexification of church means that when most people hear the word, they think about a building, a walled garden, an exclusive club. They think about hate and fear, persecution, sexism, homophobia, purity culture, victim blaming, and who knows what else. They're wrong, of course.
 
-Except that they're _not_ wrong. That's what church has become for a lot of people. There is a lot of money in pedding hate a fear, and a lot of potential for control. The Kleenex churches tend to get big.
+Except that they're _not_ wrong. That's what church has become for a lot of people. There is a lot of money in pedding division, and a lot of potential for control. The Kleenex churches tend to get big.
 
 So what do we do? Some folks try to solve the problem by _not_ solving the problem. They stop using the word "church" to describe what they do on a Sunday morning. They call it a "Spiritual Campus," or a "Truth Center," or an "Enlightened Lollapalooza" (honestly, it wouldn't surprise me). But they're still doing the same thing: one person stands up in front of a bunch of other people and talks about mystical stuff. A lot is made about how people who _don't_ go to that particular place are missing the boat. Songs are sung. A basket is passed. Everybody goes to lunch afterwards. Nothing significant has changed. The nouns have been switched around, but who cares? Who is fooled by that? It looks like fear to me.
 
 **Here's the thing: if somebody _is_ fooled by the label switcharoo, they've turned off the same parts of their minds and hearts that they'd need in order to learn and grow. That's a problem.**
 
-So how do we un-flip the switch and have a little courage?
+So how do we un-flip the switch and find a little courage?
 
 I am not sure. I have participated in approximately one million strategies during my pastoral career. Maybe the trick is to put our collective heads down and keep trying to do ekklesia, to keep using words like "church" even if it means we have to explain ourselves over and over (and over) again. There is healing in that dialog, and there can be joy in that repetition. 
 
