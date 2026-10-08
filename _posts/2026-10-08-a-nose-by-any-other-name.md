@@ -19,7 +19,7 @@ Nobody says "facial tissue." They're _Kleenex._ Nobody says "personal cleaning s
 
 Is Pepsi okay?
 
-Same thing with "church." The word comes from the root word _ekklesia,_ which means something like "a community of called-out people." I take that to mean that church, when its being true to the word, is a group of people who are dedicated, called-out, to something higher than themselves and their egos. At the same time, people in a real church call each other out; they hold one another accountable. Less a fortress and more a family.
+Same thing with "church." The word comes from the root word _ekklesia,_ which means something like "a community of called-out people." I take that to mean that church, when it's being true to the word, is a group of people who are dedicated, called-out, to something higher than themselves and their egos. At the same time, people in a real church call each other out; they hold one another accountable. Less a fortress and more a family.
 
 But that's facial tissue. The Kleenexification of church means that when most people hear the word, they think about a building, a walled garden, an exclusive club. They think about hate and fear, persecution, sexism, homophobia, purity culture, victim blaming, and who knows what else. They're wrong, of course.
 
