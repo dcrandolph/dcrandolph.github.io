@@ -36,12 +36,12 @@ Those second-person prayers, the gospel of Saint Wendy, were just not done. Bene
 
 Our prayers were not second person. Our prayers were not _at_ but _about._ We _affirmed_ things:
 
-> The Light of God surrounds us,
-> The Love of God enfolds us,
-> The Power of God protects us,
-> The Presence of God watches over us.
-> Wherever we are, God is,
-> And all is well.
+> The Light of God surrounds us,  
+> The Love of God enfolds us,  
+> The Power of God protects us,  
+> The Presence of God watches over us.  
+> Wherever we are, God is,  
+> And all is well.  
 
 That was a long time ago, but that is one of my favorites, still. I say it all the time, still. But now, after all these years, I wonder if we've lost something. Where is God, if you are talking directly to Him in a fast food restaurant? But where is God, if you are talking about Him like He's not there, like a family deciding what to do with an aging and heard-of-hearing great-grandpa in a nursing home when nobody wants to be responsible for care? Same place.
 
