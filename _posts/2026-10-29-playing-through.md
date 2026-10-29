@@ -7,7 +7,7 @@ tags:
   - allegory
   - scripture
   - play
-  - bible
+  - Bible
   - Teacher
 ---
 I bought my grandson a toy car the other day, and, as I pulled the trigger on the online purchase, congratulated myself and cursed my restraint at not buying him seven of the things. I also did not buy one for myself, though I _really_ wanted it.
@@ -28,7 +28,7 @@ Maybe this is why some kids smash their Matchbox cars with hammers.
 
 The good toy cars, the _fun_ ones, don't look anything like real cars. They _feel_ like them somehow, though. They build around core curves and lines of motion, they leave out details and make room for imagination and feelings. They evoke, and therefore engage.
 
-I think all of this clicks because of something in the human spirit; something about the way our minds and hearts work. Maybe that's why music, and poetry, and dancing, work.
+I think all of this clicks because of something in the human spirit; something about the way our minds and hearts work. Maybe that's why music, and poetry, and dancing, works.
 
 I think of all the times that the Teacher told the disciples (not to mention the scribes and Pharisees) that fidelity to the letter of the law wasn't worth anything. I think of why parables are so powerful. I think of how to read Scripture, looking for meaning rather than detail. We cannot know the actual words used in something that is the result of countless conversations and multiple languages over thousands of years, translated and retranslated and edited and argued over. Material fidelity may be interesting, but it is never fun. Never meaningful.
 
